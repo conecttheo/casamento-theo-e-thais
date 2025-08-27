@@ -8,13 +8,13 @@ body {
   background-image: url(./assets/Design\ sem\ nome\ \(1\).png);
   background-repeat: no-repeat;
     background-size: 100%;
-    background-position: relative;
+    background-position: absolute;
     min-height: 100vh;
   /*background: linear-gradient(to right, #ffffff, #ffedb1); */
 }
 
 .frame-lyrics {
-    background-color:rgba(254, 255, 207, 0.523);
+    background-color:rgba(255, 255, 255, 0.299);
     backdrop-filter: blur(30px);
     box-shadow: 0 0 80px rgba(0, 0, 0, 0.3)
 }
