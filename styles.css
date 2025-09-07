@@ -1,20 +1,20 @@
 body {
   width:100%;
-  font-family: var(--font);
   color:#eee;
-  font-size: 10px;
-  font-size: 100%;
-  
   background-image: url(./assets/Design\ sem\ nome\ \(2\).png);
   background-repeat: no-repeat;
-    background-size: 110%;
-    background-position: absolute;
-    min-height: 110vh;
+  background-size: 110%;
+  background-position: absolute;
+  min-height: 110vh;
   /*background: linear-gradient(to right, #ffffff, #ffedb1); */
 }
 
 .frame-lyrics {
-    background-color:rgba(255, 245, 138, 0.299);
-    backdrop-filter: blur(30px);
-    box-shadow: 0 0 80px rgba(0, 0, 0, 0.3)
+  background-color:rgba(255, 255, 255, 0.299);
+  backdrop-filter: blur(30px);
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
+}
+
+.letra {
+  font-size: 20px;
 }
