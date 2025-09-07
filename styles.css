@@ -7,9 +7,9 @@ body {
   
   background-image: url(./assets/Design\ sem\ nome\ \(2\).png);
   background-repeat: no-repeat;
-    background-size: 102%;
+    background-size: 110%;
     background-position: absolute;
-    min-height: 100vh;
+    min-height: 110vh;
   /*background: linear-gradient(to right, #ffffff, #ffedb1); */
 }
 
